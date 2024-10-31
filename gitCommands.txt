@@ -1,4 +1,5 @@
 echo "# epas" >> README.md
+git config --global --add safe.directory '/run/media/nick/Hitachi/Documents/My Resources/Physics/ΦυσικήΕΠΑΛ/epas'
 git init
 git add README.md
 git commit -m "first commit"
